@@ -1,14 +1,18 @@
-.name{color:blueviolet;
+.name-format{color:blueviolet;
         font-style:oblique;
+        text-align: center;
     }
 
 body {
     background-color: bisque;
 }
 
+
+h1{color:burlywood;font-style: inherit;}
+
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-
