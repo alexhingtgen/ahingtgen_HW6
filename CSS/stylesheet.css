@@ -1,18 +1,39 @@
-.name-format{color:blueviolet;
-        font-style:oblique;
-        text-align: center;
-    }
-
 body {
     background-color: bisque;
 }
-
-
-h1{color:burlywood;font-style: inherit;}
-
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+/*css classes*/
+.bold {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.redcolor {
+    color:red;
+}
+
+.contact {
+    font-style:oblique;
+    color:red;
+    font-weight:bold;
+}
+
+.phone {
+    font-style:initial;
+    color:teal
+}
+
+.emails {
+    font-style: italic;
+    color:blue;
+}
+
+.underline {
+    text-decoration:underline;
 }
