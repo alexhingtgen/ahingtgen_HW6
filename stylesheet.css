@@ -1,9 +1,18 @@
-#menubar {
-    background-color: khaki;
-    width: 100%;
-    overflow: hidden;
-}
+.name-format{color:blueviolet;
+        font-style:oblique;
+    }
 
+<ul>
+    <li><a href="index.html">Main Page</a></li>
+    <li><a href="AboutMe.html">About Me</a></li>
+    <li><a href="https://www.linkedin.com/in/alexander-hingtgen/">LinkedIn</a></li>
+</ul>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
 body {
     background-color: bisque;
