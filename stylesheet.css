@@ -1,0 +1,13 @@
+#menubar {
+    background-color: khaki;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+body {
+    background-color: bisque;
+}
+
+
+h1{color:burlywood;font-style: inherit;}
